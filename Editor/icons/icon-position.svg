@@ -1,0 +1,26 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="22px" height="19px" viewBox="0 0 22 19">
+<defs>
+<g id="icon_position_0_Layer0_0_FILL">
+<path fill="#FFFFFF" fill-opacity="0.9882352941176471" stroke="none" d="
+M 3 3
+L 3 16 19 16 19 3 3 3
+M 17 5
+L 17 14 5 14 5 5 17 5
+M 1 18
+L 1 14 0 14 0 19 5 19 5 18 1 18
+M 5 0
+L 0 0 0 5 1 5 1 1 5 1 5 0
+M 21 1
+L 21 5 22 5 22 0 17 0 17 1 21 1
+M 22 19
+L 22 14 21 14 21 18 17 18 17 19 22 19 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#icon_position_0_Layer0_0_FILL"/>
+</g>
+</g>
+</svg>

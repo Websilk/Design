@@ -1,0 +1,30 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="32px" height="32px" viewBox="0 0 32 32">
+<defs>
+<g id="iconPanelSlideshow_0_Layer1_0_FILL">
+<path fill="#FFFFFF" fill-opacity="0" stroke="none" d="
+M 32.05 0
+L 0 0 0 32 32.05 32 32.05 0 Z"/>
+</g>
+
+<g id="iconPanelSlideshow_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 32 32
+L 32 0 0 0 0 32 32 32
+M 24 9
+L 31 16 24 23 23 22 29 16 23 10 24 9
+M 1 16
+L 8 9 9 10 3 16 9 22 8 23 1 16 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#iconPanelSlideshow_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#iconPanelSlideshow_0_Layer0_0_FILL"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,44 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="33px" height="25px" viewBox="0 0 33 25">
+<defs>
+<g id="iconScreenTablet_0_Layer1_0_FILL">
+<path fill="#FFFFFF" fill-opacity="0" stroke="none" d="
+M 0 0
+L 0 25 33 25 33 0 0 0 Z"/>
+</g>
+
+<g id="iconScreenTablet_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 26.05 22
+Q 29 22 29 19
+L 29 6
+Q 29 3 26.05 3
+L 7 3
+Q 4 3 4 6
+L 4 19
+Q 4 22 7 22
+L 26.05 22
+M 27 19
+Q 27 20 26 20
+L 7 20
+Q 6 20 6 19
+L 6 6
+Q 6 5 7 5
+L 26 5
+Q 27 5 27 6
+L 27 19
+M 20.75 9.45
+L 21.05 8 14.3 8 14 9.45 16.5 9.45 15 16.6 16.8 16.6 18.25 9.45 20.75 9.45 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#iconScreenTablet_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#iconScreenTablet_0_Layer0_0_FILL"/>
+</g>
+</g>
+</svg>
