@@ -27,6 +27,8 @@ Note: Make sure you have gulp installed first. Also, make sure you run the comma
     use:not(.svg-nocolor):hover{color:currentColor}
     use:not(.svg-nocolor):active{color:currentColor}
     </style>
+	
+	<defs>
 ```
 
 * copy the contents of the file `/SVG/test/dest/src.svg` and replace the contents of the published sprite @ `/wwwroot/images/editor/icons.svg` within the Websilk CMS platform repository. (http://www.github.com/Websilk/Home)
@@ -34,7 +36,6 @@ Note: Make sure you have gulp installed first. Also, make sure you run the comma
 Now you can use your new vector icon within the Websilk platform! For example:
 
 ```
-
 	<svg viewBox="0 0 92 30">
 		<use xlink:href="#icon-logo" x="0" y="0" width="92" height="30"></use>
 	</svg>
