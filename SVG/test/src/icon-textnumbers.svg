@@ -1,0 +1,38 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="18px" height="18px" viewBox="0 0 18 18">
+<defs>
+<g id="iconTextNumbers_0_Layer1_0_FILL">
+<path fill="#FFFFFF" fill-opacity="0" stroke="none" d="
+M 18 0
+L 0 0 0 18 18 18 18 0 Z"/>
+</g>
+
+<g id="iconTextNumbers_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 6 13
+L 6 15 18 15 18 13 6 13
+M 2.3 10.5
+Q 1.95 10.35 1.45 10.3 1.05 10.35 0.7 10.45 0.35 10.55 0.15 10.7
+L 0.4 11.5
+Q 0.55 11.35 0.8 11.25 1 11.2 1.2 11.2 1.55 11.2 1.7 11.35 1.85 11.55 1.85 11.8 1.85 12.1 1.7 12.35 1.55 12.65 1.3 13 1 13.3 0.6 13.7
+L 0.1 14.3 0.1 14.95 3 14.95 3 14.05 1.45 14.05 1.85 13.7
+Q 2.1 13.4 2.35 13.1 2.6 12.8 2.75 12.45 2.9 12.1 2.9 11.7 2.9 11.35 2.75 11 2.6 10.7 2.3 10.5
+M 2.1 3
+L 1.2 3 0 3.55 0.25 4.35 1.05 3.95 1.05 7.55 2.1 7.55 2.1 3
+M 18 5
+L 18 3 6 3 6 5 18 5
+M 18 10
+L 18 8 6 8 6 10 18 10 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#iconTextNumbers_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#iconTextNumbers_0_Layer0_0_FILL"/>
+</g>
+</g>
+</svg>

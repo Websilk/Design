@@ -1,0 +1,28 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="31px" height="25px" viewBox="0 0 31 25">
+<defs>
+<g id="iconMoveFolder_0_Layer1_0_FILL">
+<path fill="#FFFFFF" fill-opacity="0" stroke="none" d="
+M 31 -4
+L 0 -4 0 21 31 21 31 -4 Z"/>
+</g>
+
+<g id="iconMoveFolder_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 24.95 13
+L 24.95 16.5 30.95 10.5 24.95 4.5 24.95 8 14 8 14 13 24.95 13
+M 22 18
+L 22 14 20 14 20 16 2 16 2 2 8 2 10 5 20 5 20 7 22 7 22 3 11 3 9 0 0 0 0 18 22 18 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,4) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#iconMoveFolder_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#iconMoveFolder_0_Layer0_0_FILL"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,30 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="36px" height="36px" viewBox="0 0 36 36">
+<defs>
+<g id="icon_apps_0_Layer1_0_FILL">
+<path fill="#FFFFFF" fill-opacity="0" stroke="none" d="
+M 0 0
+L 0 36 36 36 36 0 0 0 Z"/>
+</g>
+
+<g id="icon_apps_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 35.6 6.95
+L 27.1 0.05 0 0 0 27.4 9.4 35.9 35.95 35.95 35.95 7.35 35.6 6.95
+M 26.3 1.95
+L 32.45 6.95 10.35 6.95 4.05 1.95 26.3 1.95
+M 1.95 2.85
+L 9.35 8.7 9.35 33.25 1.95 26.55 1.95 2.85 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#icon_apps_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#icon_apps_0_Layer0_0_FILL"/>
+</g>
+</g>
+</svg>

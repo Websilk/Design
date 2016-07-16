@@ -1,0 +1,42 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="32px" height="32px" viewBox="0 0 32 32">
+<defs>
+<g id="iconPanelGrid_0_Layer1_0_FILL">
+<path fill="#FFFFFF" fill-opacity="0" stroke="none" d="
+M 0 0
+L 0 32 32.05 32 32.05 0 0 0 Z"/>
+</g>
+
+<g id="iconPanelGrid_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 21 22
+L 11 22 11 32 21 32 21 22
+M 10 22
+L 0 22 0 32 10 32 10 22
+M 0 0
+L 0 10 10 10 10 0 0 0
+M 10 11
+L 0 11 0 21 10 21 10 11
+M 32 22
+L 22 22 22 32 32 32 32 22
+M 21 21
+L 21 11 11 11 11 21 21 21
+M 32 11
+L 22 11 22 21 32 21 32 11
+M 21 10
+L 21 0 11 0 11 10 21 10
+M 32 10
+L 32 0 22 0 22 10 32 10 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#iconPanelGrid_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#iconPanelGrid_0_Layer0_0_FILL"/>
+</g>
+</g>
+</svg>

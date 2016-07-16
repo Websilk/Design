@@ -1,0 +1,44 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="32px" height="32px" viewBox="0 0 32 32">
+<defs>
+<g id="iconPanelBook_0_Layer1_0_FILL">
+<path fill="#FFFFFF" fill-opacity="0" stroke="none" d="
+M 32.05 0
+L 0 0 0 32 32.05 32 32.05 0 Z"/>
+</g>
+
+<g id="iconPanelBook_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 32 29
+L 32 2
+Q 25 -1.95 17 2
+L 17 29
+Q 25 25.05 32 29
+M 17 30
+L 17 32
+Q 25 28.05 32 32
+L 32 30
+Q 25 26.05 17 30
+M 0 32
+Q 8 28.05 15 32
+L 15 30
+Q 8 26.05 0 30
+L 0 32
+M 15 2
+Q 8 -1.95 0 2
+L 0 29
+Q 8 25.05 15 29
+L 15 2 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#iconPanelBook_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#iconPanelBook_0_Layer0_0_FILL"/>
+</g>
+</g>
+</svg>
