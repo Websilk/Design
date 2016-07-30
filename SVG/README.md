@@ -10,4 +10,4 @@ this SVG folder is a github project copied from https://github.com/w0rm/gulp-svg
 #### Usages
 copy compiled svg file to use in the following projects:
 * [Websilk](http://www.github.com/websilk/home) replacing file `wwwroot/images/editor/icons.svg`
-* [Taprestry](http://www.github.com/websilk/tapestry) replacing file `icons/icons.svg`
+* [Tapestry](http://www.github.com/websilk/tapestry) replacing file `icons/icons.svg`
