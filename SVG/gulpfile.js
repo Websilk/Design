@@ -11,7 +11,7 @@ var inject = require('gulp-inject')
 gulp.task('svg', function () {
 
   return gulp
-    .src('test/src/*.svg')
+    .src('test/icons/*.svg')
     .pipe(cheerio({
       run: function ($) {
         $('[fill="none"]').removeAttr('fill')
@@ -19,7 +19,7 @@ gulp.task('svg', function () {
       parserOptions: { xmlMode: true }
     }))
     .pipe(svgstore())
-    .pipe(gulp.dest('test/dest'))
+    .pipe(gulp.dest('test/compiled'))
 
 })
 
@@ -31,7 +31,7 @@ gulp.task('inline-svg', function () {
   }
 
   var svgs = gulp
-    .src('test/src/*.svg')
+    .src('test/icons/*.svg')
     .pipe(cheerio({
       run: function ($) {
         $('[fill="none"]').removeAttr('fill')
@@ -41,9 +41,9 @@ gulp.task('inline-svg', function () {
     .pipe(svgstore({ inlineSvg: true }))
 
   return gulp
-    .src('test/src/inline-svg.html')
+    .src('test/icons/inline-svg.html')
     .pipe(inject(svgs, { transform: fileContents }))
-    .pipe(gulp.dest('test/dest'))
+    .pipe(gulp.dest('test/compiled'))
 
 })
 
