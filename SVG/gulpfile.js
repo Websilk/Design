@@ -6,6 +6,7 @@ var connect = require('connect')
 var serveStatic = require('serve-static')
 var http = require('http')
 var inject = require('gulp-inject')
+var replace = require('gulp-replace');
 
 
 gulp.task('svg', function () {
@@ -19,6 +20,14 @@ gulp.task('svg', function () {
       parserOptions: { xmlMode: true }
     }))
     .pipe(svgstore())
+    .pipe(replace('svg"><defs>', 'svg">\n\n\n' + 
+    '<style type="text/css">\n' +
+    '    path:not(.svg-nocolor){fill:currentColor}\n' +
+    '    use:not(.svg-nocolor):visited{color:currentColor}\n' +
+    '    use:not(.svg-nocolor):hover{color:currentColor}\n' +
+    '    use:not(.svg-nocolor):active{color:currentColor}\n' +
+    '</style>\n\n\n' + 
+    '<defs>'))
     .pipe(gulp.dest('test/compiled'))
 
 })
