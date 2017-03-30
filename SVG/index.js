@@ -13,13 +13,13 @@ module.exports = function (config) {
   var ids = {}
 
   var resultSvg = '<svg xmlns="http://www.w3.org/2000/svg" ><defs/></svg>'
-  if (!inlineSvg) {
+  /*if (!inlineSvg) {
     resultSvg =
       '<?xml version="1.0" encoding="UTF-8"?>' +
       '<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" ' +
       '"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">' +
       resultSvg
-  }
+  }*/
 
   var $ = cheerio.load(resultSvg, { xmlMode: true })
   var $combinedSvg = $('svg')
